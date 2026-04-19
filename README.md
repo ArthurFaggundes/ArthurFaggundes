@@ -1,54 +1,45 @@
-[🇺🇸] version --
+<h1 align='center'>
+  Hello! I'm Arthur! ✌️
+</h1>  
 
-# Hello! My name is Arthur, nice to meet you!
+<div align='center'>
+    Software Engineer | Full stack Python | Game Dev aspiring
+</div>
 
-## 🧔 About me:
+<h3 align='center'>
+    <ul style='list-style: none;'>
+        <li>- Studing Software Engineering at INFNET University;</li>
+        <li>- And a technical course of Full Stack Python at EBAC education institute.</li>
+    </ul>
+</h3>
 
-### - I like coffe (like every good programmer 😄)
-### - And i love learning about gaming development, artificial inteligence and cybersecurity
+<h2 align='center'>
+    <img src='https://img.shields.io/badge/Python-F37626?style=for-the-badge&logo=Python&logoColor=white'/>
+    <img src='https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img src='https://img.shields.io/badge/css-663399?style=for-the-badge&logo=Css&logoColor=white'/>
+    <img src='https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black'/>
+    <img src='https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white'/>
+</h2>
 
-## 📑 Schooling:
+<h3 align='center'>
+    🔭 What im looking:
+</h3>
+<p align='center'>
+    Im looking for a job in the Engineering or Full Stack area, maybe collaborate in a game or an app project.
+</p>
+<hr/>
 
-Im studing **Software Engineering** at INFNET University and a technical course of **Full Stack Python** at EBAC education institute.
-
-## I can craft with:
-![python](https://img.shields.io/badge/python-F37626?style=plastic&logo=Python) 
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=Javascript) 
-![react](https://img.shields.io/badge/react-61DAFB?style=plastic&logo=React) 
-![css](https://img.shields.io/badge/css-663399?style=plastic&logo=Css) 
-![html](https://img.shields.io/badge/html-E34F26?style=plastic&logo=Html)
-
-## 🔭 What im looking:
-
-Im looking for a job in the Engineering or Full Stack area, maybe collaborate in a game or an app project.
-
-[🇧🇷] version --
-
-# Olá! Me chamo Arthur, prazer em conhecer!
-
-## 🧔 Sobre mim:
-
-### - Gosto de café (assim como todo bom programador 😄)
-### - E eu amo aprender sobre desenvolvimento de jogos, inteligência artificial e cibersegurança
-
-## 📑 Escolaridade:
-
-Estou estudando **Engenharia de Software** no Instituto INFNET e fazendo um curso técnico em **Full Stack Python** pela EBAC.
-
-## Minhas habilidades:
-![python](https://img.shields.io/badge/python-F37626?style=plastic&logo=Python) 
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=Javascript) 
-![react](https://img.shields.io/badge/react-61DAFB?style=plastic&logo=React) 
-![css](https://img.shields.io/badge/css-663399?style=plastic&logo=Css) 
-![html](https://img.shields.io/badge/html-E34F26?style=plastic&logo=Html)
-
-## 🔭 O que prodcuro:
-
-Procuro por um trabalho como Engenheiro Junior ou um Full stack na área de Python ou javascript, ou ainda, ajudar em um projeto de jogo ou aplicativo.
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0D597F?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/arthur-fagundes-248b7933a/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurFaggundes)](https://github.com/ArthurFaggundes/github-readme-stats)
+<div align='center'>
+<h3>
+    📩 Git Stats and contact me:
+</h3>
+    <div style='display: flex; flex-direction: column; max-width: 60%;'>
+        <img style='margin-bottom: 5%;' src='https://github-readme-stats.vercel.app/api?username=ArthurFaggundes'/>
+        <a url='https://www.linkedin.com/in/arthur-fagundes-248b7933a/'>
+            <img src='https://img.shields.io/badge/linkedin-0071C5?style=for-the-badge&logo=inspire&logoColor=white'/>
+        </a>
+    </div>
+</div>
 
 <!--
 **ArthurFaggundes/ArthurFaggundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
