@@ -12,7 +12,7 @@
 Im studing **Software Engineering** at INFNET University and a technical course of **Full Stack Python** at EBAC education institute.
 
 ## I can craft with:
-![Static Badge](...)
+![python](https://img.shields.io/badge/python-orange?style=plastic&logo=Python)
 
 ## 🔭 What im looking:
 
