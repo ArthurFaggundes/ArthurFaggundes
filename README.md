@@ -7,11 +7,14 @@
 </div>
 
 <h3 align='center'>
-    <ul style='list-style: none;'>
-        <li>- Studing Software Engineering at INFNET University;</li>
-        <li>- And a technical course of Full Stack Python at EBAC education institute.</li>
-    </ul>
+    <div>
+        - Studing Software Engineering at INFNET University;
+    </div>
+    <div>
+        - And a technical course of Full Stack Python at EBAC education institute.
+    </div>
 </h3>
+
 
 <h2 align='center'>
     <img src='https://img.shields.io/badge/Python-F37626?style=for-the-badge&logo=Python&logoColor=white'/>
@@ -30,13 +33,15 @@
 <hr/>
 
 <div align='center'>
-<h3>
-    📩 Git Stats and contact me:
-</h3>
-    <div style='display: flex; flex-direction: column; max-width: 60%;'>
-        <img style='margin-bottom: 5%;' src='https://github-readme-stats.vercel.app/api?username=ArthurFaggundes'/>
-        <a url='https://www.linkedin.com/in/arthur-fagundes-248b7933a/'>
-            <img src='https://img.shields.io/badge/linkedin-0071C5?style=for-the-badge&logo=inspire&logoColor=white'/>
+    <h3>
+        📩 Git Stats and contact me:
+    </h3>
+    <div'>
+        <img src='https://github-readme-stats.vercel.app/api?username=ArthurFaggundes&show_icons=true&theme=dark&count_private=true' width='55%'/>
+    </div>
+    <div align='center'>
+        <a href='https://www.linkedin.com/in/arthur-fagundes-248b7933a/'>
+            <img src='https://img.shields.io/badge/linkedin-follow%20me-0071C5?style=for-the-badge&logo=inspire&logoColor=white' alt='LinkedIn'/>
         </a>
     </div>
 </div>
