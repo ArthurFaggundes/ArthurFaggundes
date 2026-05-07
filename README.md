@@ -37,7 +37,8 @@
         📩 Git Stats and contact me:
     </h3>
     <div'>
-        <img src='https://github-readme-stats.vercel.app/api?username=ArthurFaggundes&show_icons=true&theme=dark&count_private=true' width='55%'/>
+        <!-- <img src='https://github-readme-stats.vercel.app/api?username=ArthurFaggundes&show_icons=true&theme=dark&count_private=true' width='55%'/> -->
+        <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurFaggundes&show_icons=true&theme=dracula&count_private=true' width='55%'>
     </div>
     <div align='center'>
         <a href='https://www.linkedin.com/in/arthur-fagundes-248b7933a/'>
